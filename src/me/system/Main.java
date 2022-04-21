@@ -24,5 +24,6 @@ public class Main {
         System.out.println("[Traza] Llamamos al metodo crear piramide");
         piramide.conPiramide(valorFilas);
 
+        hexagono a = new hexagono();
     }
 }
