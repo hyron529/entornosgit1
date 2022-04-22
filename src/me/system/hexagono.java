@@ -1,5 +1,8 @@
 package me.system;
 
+/**
+ * @author adrian
+ */
 public class hexagono extends piramide{
     private  int lados;
 
